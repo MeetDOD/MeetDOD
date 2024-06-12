@@ -10,11 +10,11 @@
 
 <div align="center">
  
- <h4>🔭 Engaged in the pursuit of a Bachelor's degree in Information Technology.</h4>
-
  <h4>🌟 Presently navigating through the challenges of the third year of my Engineering journey.</h4>
 
  <h4>🌱 Exploring the intricacies of the M.E.R.N Stack, adding layers to my knowledge tapestry.</h4>
+
+ <h4>🔭 Engaged in the pursuit of a Bachelor's degree in Information Technology.</h4>
 
   <h4>📧 Contact me at: dodiyameet041@gmail.com</h4>
 
@@ -23,6 +23,8 @@
   <a href="https://www.linkedin.com/in/meetdodiya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+</div>
+<div align="center"> 
   <a href="https://meetdodiya.onrender.com" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
@@ -33,7 +35,7 @@
 <h2 align="center">📦 My Technology and Frameworks ⚒️</h2>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind,js,vite,firebase" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind,npm,vite,firebase" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,nodejs,python,javascript,typescript,express,firebase,nextjs,flask" />
