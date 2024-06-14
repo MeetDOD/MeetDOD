@@ -3,18 +3,18 @@
   <span style="font-size: 1.2em;">😄</span>
 </h1>
 <h3 align="center" style="font-size: 1.5em;">
-  A Passionate Full Stack Developer 🚀
+  🤜 A Dynamic Full Stack Developer 🚀
 </h3>
 
 <hr/>
 
 <div align="center">
  
- <h4>🌟 Presently navigating through the challenges of the third year of my Engineering journey.</h4>
+ <h4>⚡ Presently navigating through the challenges of the third year of my Engineering journey.</h4>
 
- <h4>🌱 Exploring the intricacies of the M.E.R.N Stack, adding layers to my knowledge tapestry.</h4>
+ <h4>🧭 Exploring the intricacies of the M.E.R.N Stack, adding layers to my knowledge tapestry.</h4>
 
- <h4>🔭 Engaged in the pursuit of a Bachelor's degree in Information Technology.</h4>
+ <h4>💫 Engaged in the pursuit of a Bachelor's degree in Information Technology.</h4>
 
   <h4>📧 Contact me at: dodiyameet041@gmail.com</h4>
 
