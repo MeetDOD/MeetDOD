@@ -10,7 +10,7 @@
 
 <div align="center">
  
- <h4>⚡ Presently navigating through the challenges of the third year of my Engineering journey.</h4>
+ <h4>⚡ Presently navigating through the challenges of the final (4th) year of my Engineering journey.</h4>
 
  <h4>🧭 Exploring the intricacies of the M.E.R.N Stack, adding layers to my knowledge tapestry.</h4>
 
