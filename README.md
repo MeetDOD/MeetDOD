@@ -57,13 +57,13 @@
 
  <hr/>
 
-<h2 align="center">📂 Open Source Programs 🤝</h2>
+<h2 align="center">📂 Open Source Contribution 🤝</h2>
 <br/>
 
 <table align="center">
   <tr align="center">
-      <td style="border-right: 1px solid #eeeeef;" align="center">
-      <a href="">
+      <td style="border-right: 1px dotted #eeeeef;" align="center">
+      <a href="https://www.linkedin.com/posts/meetdodiya_gssoc-opensource-girlscript-activity-7218302957224640512-XzJX?utm_source=share&utm_medium=member_desktop">
         <img src="https://github.com/MeetDOD/MeetDOD/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="100" />
         <br>
       </a>
@@ -71,3 +71,42 @@
     </td>
   </tr>
 </table>
+
+<h2 align="center">Badges from GSSOC'24</h2>
+
+<table align="center">
+  <tr align="center">
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" />
+      <br>
+      <strong>GSSOC'24 <br> Explorer Badge</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Adventurer%20Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" />
+      <br>
+      <strong>GSSOC'24 <br> Adventurer Badge</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Trailblazer%20Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" />
+      <br>
+      <strong>GSSOC'24 <br> Trailblazer Badge</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="100" />
+      <br>
+      <strong>GSSOC'24 <br> Summit Seeker Badge</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Champion%20Badge.png" alt="GSSoC'24 Champion Badge" width="100" />
+      <br>
+      <strong>GSSOC'24 <br> Champion Badge</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Innovator%20Bage.png" alt="GSSoC'24 Innovator Badge" width="100" />
+      <br>
+      <strong>GSSOC'24 <br> Innovator Badge</strong>
+    </td>
+  </tr>
+</table>
+
+<br>
