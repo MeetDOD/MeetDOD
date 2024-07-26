@@ -53,3 +53,15 @@
 <p align="center" style="font-size: 1.1em; max-width: 800px; margin: auto;">
   Greetings, I go by the name <strong>Meet Dodiya</strong>, where ambition, self-motivation, and an unwavering drive define my identity as a versatile <strong>Full Stack Developer</strong>. I am a fervent advocate for perpetual growth, fueled by an unwavering passion for technology and an insatiable desire to consistently push the boundaries of what is achievable. I am always exploring emerging trends in Information Technology 📈.
 </p>
+
+<table align="center">
+  <tr align="center">
+      <td style="border-right: 1px solid #eeeeef;" align="center">
+      <a href="">
+        <img src="" alt="GirlScript Summer of Code" width="100" />
+        <br>
+        <strong>GirlScript Summer of Code</strong>
+      </a>
+    </td>
+  </tr>
+</table>
