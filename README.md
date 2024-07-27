@@ -79,37 +79,37 @@
     <td style="border-right: 1px solid #eeeeef;" align="center">
       <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Postman%20Badge.png" alt="GSSoC'24 Postman Badge" width="100" />
       <br>
-      <strong>GSSOC'24 <br> Postman Badge</strong>
+      <strong>Postman Badge</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
       <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" />
       <br>
-      <strong>GSSOC'24 <br> Explorer Badge</strong>
+      <strong>Explorer Badge</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
       <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Adventurer%20Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" />
       <br>
-      <strong>GSSOC'24 <br> Adventurer Badge</strong>
+      <strong>Adventurer Badge</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
       <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Trailblazer%20Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" />
       <br>
-      <strong>GSSOC'24 <br> Trailblazer Badge</strong>
+      <strong>Trailblazer Badge</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="100" />
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="95" />
       <br>
-      <strong>GSSOC'24 <br> Summit Seeker Badge</strong>
+      <strong>Summit Seeker Badge</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
       <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Champion%20Badge.png" alt="GSSoC'24 Champion Badge" width="100" />
       <br>
-      <strong>GSSOC'24 <br> Champion Badge</strong>
+      <strong>Champion Badge</strong>
     </td>
     <td align="center">
       <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Innovator%20Bage.png" alt="GSSoC'24 Innovator Badge" width="100" />
       <br>
-      <strong>GSSOC'24 <br> Innovator Badge</strong>
+      <strong>Innovator Badge</strong>
     </td>
   </tr>
 </table>
