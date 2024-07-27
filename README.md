@@ -77,6 +77,11 @@
 <table align="center">
   <tr align="center">
     <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Postman%20Badge.png" alt="GSSoC'24 Postman Badge" width="100" />
+      <br>
+      <strong>GSSOC'24 <br> Postman Badge</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
       <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" />
       <br>
       <strong>GSSOC'24 <br> Explorer Badge</strong>
@@ -108,5 +113,4 @@
     </td>
   </tr>
 </table>
-
 <br>
