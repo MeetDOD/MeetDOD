@@ -97,7 +97,7 @@
       <strong>Trailblazer</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="90" />
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="86" />
       <br>
       <strong>SummitSeeker</strong>
     </td>
