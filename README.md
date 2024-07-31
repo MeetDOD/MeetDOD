@@ -60,17 +60,13 @@
 <h2 align="center">📂 Open Source Contribution 🤝</h2>
 <br/>
 
-<table align="center">
-  <tr align="center">
-      <td style="border-right: 1px dotted #eeeeef;" align="center">
-      <a href="https://www.linkedin.com/posts/meetdodiya_gssoc-opensource-girlscript-activity-7218302957224640512-XzJX?utm_source=share&utm_medium=member_desktop">
+<div align="center">
+  <a href="https://www.linkedin.com/posts/meetdodiya_gssoc-opensource-girlscript-activity-7218302957224640512-XzJX?utm_source=share&utm_medium=member_desktop">
         <img src="https://github.com/MeetDOD/MeetDOD/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="100" />
-        <br>
+    <h3>GirlScript Summer of Code (GSSOC'24)</strong>
       </a>
-      <strong>GirlScript Summer of Code (GSSOC'24)</strong>
-    </td>
-  </tr>
-</table>
+    <hr/>
+</div>
 
 <h2 align="center">Badges from GSSOC'24</h2>
 
@@ -96,8 +92,14 @@
       <br>
       <strong>Trailblazer</strong>
     </td>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr align="center">
     <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="86" />
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="100" />
       <br>
       <strong>SummitSeeker</strong>
     </td>
@@ -112,7 +114,7 @@
       <strong>Innovator</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Conqurer%20Badge.png" alt="GSSoC'24 Conqurer Badge" width="90" />
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Conqurer%20Badge.png" alt="GSSoC'24 Conqurer Badge" width="100" />
       <br>
       <strong>Conqurer</strong>
     </td>
