@@ -57,7 +57,7 @@
 
  <hr/>
 
-<h2 align="center">📂 Open Source Contribution 🤝</h2>
+<h2 align="center">🧑‍💻 Open Source Contribution 🤝</h2>
 <br/>
 
 <div align="center">
@@ -68,8 +68,7 @@
     <hr/>
 </div>
 
-<h2 align="center">Badges from GSSOC'24</h2>
-
+<details><summary>🪶 Badges from GSSOC'24</summary>
 <table align="center">
   <tr align="center">
     <td style="border-right: 1px solid #eeeeef;" align="center">
@@ -121,3 +120,4 @@
   </tr>
 </table>
 <br>
+</details>
