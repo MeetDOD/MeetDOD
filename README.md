@@ -61,7 +61,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/posts/meetdodiya_gssoc-opensource-girlscript-activity-7218302957224640512-XzJX?utm_source=share&utm_medium=member_desktop">
+  <a href="https://gssoc.girlscript.tech/contributorAnalytics">
         <img src="https://github.com/MeetDOD/MeetDOD/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="100" />
     <h3>GirlScript Summer of Code (GSSOC'24)</strong>
       </a>
